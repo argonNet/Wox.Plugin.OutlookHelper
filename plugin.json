@@ -1,0 +1,12 @@
+{
+    "ID":"d32d75e5488b43e6b7ff59f1ca64e2ea", 
+    "ActionKeyword":"ou",                    
+    "Name":"OutlookHelper",                            
+    "Description":"Provide shorcut to several outlook funciton",  
+    "Author":"Sébastien Schoepfer",                   
+    "Version":"1.0.0",                       
+    "Language":"csharp",                     
+    "Website":"http://www.getwox.com",       
+    "IcoPath": "Images\\outlook.png",            
+    "ExecuteFileName":"Wox.Plugin.OutlookHelper.dll" 
+  }
